@@ -14,6 +14,7 @@ public class Main {
                 .filter(line-> !"Thang".equals(line))
                 .collect(Collectors.toList());
 
+        System.out.print("Co y den config");
         resulyt.forEach(System.out::println);
     }
 }
