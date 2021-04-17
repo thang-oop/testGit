@@ -16,5 +16,7 @@ public class Main {
 
         System.out.print("Co y den config");
         resulyt.forEach(System.out::println);
+        System.out.println("dfdd");
+        System.out.println("sao không lên");
     }
 }
